@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\innah\\source\\repos\\try\\try\\try.csproj": {}
+    "C:\\Users\\innah\\Mygit\\gitme\\try\\try\\try.csproj": {}
   },
   "projects": {
-    "C:\\Users\\innah\\source\\repos\\try\\try\\try.csproj": {
+    "C:\\Users\\innah\\Mygit\\gitme\\try\\try\\try.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\innah\\source\\repos\\try\\try\\try.csproj",
+        "projectUniqueName": "C:\\Users\\innah\\Mygit\\gitme\\try\\try\\try.csproj",
         "projectName": "try",
-        "projectPath": "C:\\Users\\innah\\source\\repos\\try\\try\\try.csproj",
+        "projectPath": "C:\\Users\\innah\\Mygit\\gitme\\try\\try\\try.csproj",
         "packagesPath": "C:\\Users\\innah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\innah\\source\\repos\\try\\try\\obj\\",
+        "outputPath": "C:\\Users\\innah\\Mygit\\gitme\\try\\try\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\innah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.420\\RuntimeIdentifierGraph.json"
         }
       }
     }
