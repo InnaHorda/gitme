@@ -23,7 +23,7 @@ namespace Stroki_m
         }
         public static string Zamena(string str1)
         {
-            str1 = str1.Remove(0, (str1.IndexOf("Были")));
+            str1 = str1.Remove(0, (str1.IndexOf("Были ")));
             return str1.Remove(str1.IndexOf(", которые"));
 
         }
