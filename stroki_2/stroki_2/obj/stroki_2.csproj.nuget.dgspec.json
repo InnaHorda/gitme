@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\innah\\source\\repos\\stroki_2\\stroki_2\\stroki_2.csproj": {}
+    "C:\\Users\\innah\\Mygit\\gitme\\stroki_2\\stroki_2\\stroki_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\innah\\source\\repos\\stroki_2\\stroki_2\\stroki_2.csproj": {
+    "C:\\Users\\innah\\Mygit\\gitme\\stroki_2\\stroki_2\\stroki_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\innah\\source\\repos\\stroki_2\\stroki_2\\stroki_2.csproj",
+        "projectUniqueName": "C:\\Users\\innah\\Mygit\\gitme\\stroki_2\\stroki_2\\stroki_2.csproj",
         "projectName": "stroki_2",
-        "projectPath": "C:\\Users\\innah\\source\\repos\\stroki_2\\stroki_2\\stroki_2.csproj",
+        "projectPath": "C:\\Users\\innah\\Mygit\\gitme\\stroki_2\\stroki_2\\stroki_2.csproj",
         "packagesPath": "C:\\Users\\innah\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\innah\\source\\repos\\stroki_2\\stroki_2\\obj\\",
+        "outputPath": "C:\\Users\\innah\\Mygit\\gitme\\stroki_2\\stroki_2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\innah\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -52,7 +52,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.416\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.420\\RuntimeIdentifierGraph.json"
         }
       }
     }
