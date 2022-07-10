@@ -1,0 +1,12 @@
+C:\Users\innah\Mygit\gitme\12333\12333\bin\Debug\netcoreapp3.1\12333.exe
+C:\Users\innah\Mygit\gitme\12333\12333\bin\Debug\netcoreapp3.1\12333.deps.json
+C:\Users\innah\Mygit\gitme\12333\12333\bin\Debug\netcoreapp3.1\12333.runtimeconfig.json
+C:\Users\innah\Mygit\gitme\12333\12333\bin\Debug\netcoreapp3.1\12333.runtimeconfig.dev.json
+C:\Users\innah\Mygit\gitme\12333\12333\bin\Debug\netcoreapp3.1\12333.dll
+C:\Users\innah\Mygit\gitme\12333\12333\bin\Debug\netcoreapp3.1\12333.pdb
+C:\Users\innah\Mygit\gitme\12333\12333\obj\Debug\netcoreapp3.1\12333.AssemblyInfoInputs.cache
+C:\Users\innah\Mygit\gitme\12333\12333\obj\Debug\netcoreapp3.1\12333.AssemblyInfo.cs
+C:\Users\innah\Mygit\gitme\12333\12333\obj\Debug\netcoreapp3.1\12333.csproj.CoreCompileInputs.cache
+C:\Users\innah\Mygit\gitme\12333\12333\obj\Debug\netcoreapp3.1\12333.dll
+C:\Users\innah\Mygit\gitme\12333\12333\obj\Debug\netcoreapp3.1\12333.pdb
+C:\Users\innah\Mygit\gitme\12333\12333\obj\Debug\netcoreapp3.1\12333.genruntimeconfig.cache
