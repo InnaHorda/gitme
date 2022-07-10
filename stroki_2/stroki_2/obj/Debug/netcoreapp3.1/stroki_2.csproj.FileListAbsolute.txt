@@ -1,0 +1,13 @@
+C:\Users\innah\source\repos\stroki_2\stroki_2\bin\Debug\netcoreapp3.1\stroki_2.exe
+C:\Users\innah\source\repos\stroki_2\stroki_2\bin\Debug\netcoreapp3.1\stroki_2.deps.json
+C:\Users\innah\source\repos\stroki_2\stroki_2\bin\Debug\netcoreapp3.1\stroki_2.runtimeconfig.json
+C:\Users\innah\source\repos\stroki_2\stroki_2\bin\Debug\netcoreapp3.1\stroki_2.runtimeconfig.dev.json
+C:\Users\innah\source\repos\stroki_2\stroki_2\bin\Debug\netcoreapp3.1\stroki_2.dll
+C:\Users\innah\source\repos\stroki_2\stroki_2\bin\Debug\netcoreapp3.1\stroki_2.pdb
+C:\Users\innah\source\repos\stroki_2\stroki_2\obj\Debug\netcoreapp3.1\stroki_2.csprojAssemblyReference.cache
+C:\Users\innah\source\repos\stroki_2\stroki_2\obj\Debug\netcoreapp3.1\stroki_2.AssemblyInfoInputs.cache
+C:\Users\innah\source\repos\stroki_2\stroki_2\obj\Debug\netcoreapp3.1\stroki_2.AssemblyInfo.cs
+C:\Users\innah\source\repos\stroki_2\stroki_2\obj\Debug\netcoreapp3.1\stroki_2.csproj.CoreCompileInputs.cache
+C:\Users\innah\source\repos\stroki_2\stroki_2\obj\Debug\netcoreapp3.1\stroki_2.dll
+C:\Users\innah\source\repos\stroki_2\stroki_2\obj\Debug\netcoreapp3.1\stroki_2.pdb
+C:\Users\innah\source\repos\stroki_2\stroki_2\obj\Debug\netcoreapp3.1\stroki_2.genruntimeconfig.cache
