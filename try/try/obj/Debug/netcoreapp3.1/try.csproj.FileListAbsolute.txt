@@ -1,0 +1,4 @@
+C:\Users\innah\source\repos\try\try\obj\Debug\netcoreapp3.1\try.csprojAssemblyReference.cache
+C:\Users\innah\source\repos\try\try\obj\Debug\netcoreapp3.1\try.AssemblyInfoInputs.cache
+C:\Users\innah\source\repos\try\try\obj\Debug\netcoreapp3.1\try.AssemblyInfo.cs
+C:\Users\innah\source\repos\try\try\obj\Debug\netcoreapp3.1\try.csproj.CoreCompileInputs.cache
